@@ -1,0 +1,79 @@
+{
+    "cities": [
+        {
+            "city": "Paris",
+            "coordinates": {
+                "longitude": 2.3488,
+                "latitude": 48.8534
+            },
+            "weather": {
+                "description": "overcast clouds",
+                "temperature": {
+                    "temp": 291.33,
+                    "feels_like": 291.4,
+                    "temp_min": 289.74,
+                    "temp_max": 292.12,
+                    "pressure": 1017,
+                    "humidity": 84,
+                    "sea_level": 1017,
+                    "grnd_level": 1007
+                }
+            },
+            "wind": {
+                "speed": 2.06,
+                "deg": 220
+            },
+            "country": "FR"
+        },
+        {
+            "city": "Paris",
+            "coordinates": {
+                "longitude": 2.3488,
+                "latitude": 48.8534
+            },
+            "weather": {
+                "description": "overcast clouds",
+                "temperature": {
+                    "temp": 291.33,
+                    "feels_like": 291.4,
+                    "temp_min": 289.74,
+                    "temp_max": 292.12,
+                    "pressure": 1017,
+                    "humidity": 84,
+                    "sea_level": 1017,
+                    "grnd_level": 1007
+                }
+            },
+            "wind": {
+                "speed": 2.06,
+                "deg": 220
+            },
+            "country": "FR"
+        },
+        {
+            "city": "Paris",
+            "coordinates": {
+                "longitude": 2.3488,
+                "latitude": 48.8534
+            },
+            "weather": {
+                "description": "overcast clouds",
+                "temperature": {
+                    "temp": 291.33,
+                    "feels_like": 291.4,
+                    "temp_min": 289.74,
+                    "temp_max": 292.12,
+                    "pressure": 1017,
+                    "humidity": 84,
+                    "sea_level": 1017,
+                    "grnd_level": 1007
+                }
+            },
+            "wind": {
+                "speed": 2.06,
+                "deg": 220
+            },
+            "country": "FR"
+        }
+    ]
+}

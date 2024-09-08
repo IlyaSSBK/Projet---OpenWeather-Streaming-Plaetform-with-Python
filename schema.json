@@ -1,0 +1,27 @@
+[
+  {
+    "city": "Paris",
+    "coordinates": {
+      "longitude": 2.3488,
+      "latitude": 48.8534
+    },
+    "weather": {
+      "description": "clear sky",
+      "temperature": {
+        "temp": 291.75,
+        "feels_like": 291.7,
+        "temp_min": 290.25,
+        "temp_max": 292.67,
+        "pressure": 1016,
+        "humidity": 78,
+        "sea_level": 1016,
+        "grnd_level": 1007
+      }
+    },
+    "wind": {
+      "speed": 2.57,
+      "deg": 190
+    },
+    "country": "FR"
+  }
+]
